@@ -1,5 +1,5 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Gagan Bamrah
-====================================================================================================================================
+Hi 👋 My name is Gagan Bamrah
+==============================
 
 Data Analyst | Project Management Consultant
 --------------------------------------------
@@ -31,6 +31,3 @@ Below, you will find links to Power BI Sample Dashboards I have developed:
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="36" height="36" alt="Power BI" /></a>
 </p>
-
-
-                    
