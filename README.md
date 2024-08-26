@@ -9,7 +9,7 @@ I began my journey as a Data Analyst, analyzing data in excel, observing trends,
 *   🌍  I'm based in New York
 *   🖥️  See my  [LinkedIn Profile](http://www.linkedin.com/in/gagan-bamrah-a2a9aa163)
 *   ✉️  You can contact me at [gagan.bamrah30@gmail.com](mailto:gagan.bamrah30@gmail.com)
-*   🧠  I'm learning SQL and Python### Skills
+*   🧠  I'm learning SQL and Python
 
 ## Power BI Sample Dashboards
 -----------------------------
