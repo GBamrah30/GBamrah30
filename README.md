@@ -1,4 +1,4 @@
-Hi 👋 My name is Gagan Bamrah
+Hi, my name is Gagan Bamrah
 ==============================
 
 Data Analyst | Project Management Consultant
@@ -18,11 +18,11 @@ Below, you will find links to Power BI Sample Dashboards I have developed:
 
 **[Los Angeles Crime Statistics:](https://app.powerbi.com/view?r=eyJrIjoiZmU0OGU0ZGUtNGFhYS00MWI0LWI1NjAtODJjNzQyMTQxNDE2IiwidCI6IjY2NGQxODg4LWU4MzAtNDBmMi1iMWIwLWViMWE3ZTRhYTNhYSIsImMiOjN9)** This dataset was sourced directly from the LAPD's crime reporting system. I have used the information to show key data that provide insight into the total number of crimes, resolution rate, breakdown by victims as well as the areas the crimes occured.
 
-**[Chocolate Sales Analysis:](https://app.powerbi.com/view?r=eyJrIjoiMjEwYTU2NTQtZTk1Ny00YzFiLTk1N2MtYTUwYzNhMmFmOWViIiwidCI6IjY2NGQxODg4LWU4MzAtNDBmMi1iMWIwLWViMWE3ZTRhYTNhYSIsImMiOjN9)** Dummy dataset used to show financial reporting and KPI's of a fictional chocolate company.
+**[Chocolate Sales Analysis:](https://app.powerbi.com/view?r=eyJrIjoiMjEwYTU2NTQtZTk1Ny00YzFiLTk1N2MtYTUwYzNhMmFmOWViIiwidCI6IjY2NGQxODg4LWU4MzAtNDBmMi1iMWIwLWViMWE3ZTRhYTNhYSIsImMiOjN9)** Fictional dataset used to show financial reporting and KPI's of a fictional chocolate company.
 
-**[Car Sales Analysis:](https://app.powerbi.com/view?r=eyJrIjoiY2E4ZjczOGYtNDBhZS00MjQ2LTg0YTItZWVjNDFmNWJlNTE4IiwidCI6IjY2NGQxODg4LWU4MzAtNDBmMi1iMWIwLWViMWE3ZTRhYTNhYSIsImMiOjN9)** Dummy dataset of a fictional car dealershipl. The dashboard shows information related to financials, cars sold, and consumers.
+**[Car Sales Analysis:](https://app.powerbi.com/view?r=eyJrIjoiY2E4ZjczOGYtNDBhZS00MjQ2LTg0YTItZWVjNDFmNWJlNTE4IiwidCI6IjY2NGQxODg4LWU4MzAtNDBmMi1iMWIwLWViMWE3ZTRhYTNhYSIsImMiOjN9)** Fictional dataset of a fictional car dealershipl. The dashboard shows information related to financials, cars sold, and consumers.
 
-**[Patient Healthcare Analysis:](https://app.powerbi.com/view?r=eyJrIjoiZDllYzhhOTMtYTE2Mi00MjE5LTg3MjMtZjU2MGY3YjAwMzcwIiwidCI6IjY2NGQxODg4LWU4MzAtNDBmMi1iMWIwLWViMWE3ZTRhYTNhYSIsImMiOjN9)** This is one of the first dashboards I developed within Power BI. This dummy dataset of patients provides information on their waiting times at a healthcare facility, speciality center they were visiting, etc.
+**[Patient Healthcare Analysis:](https://app.powerbi.com/view?r=eyJrIjoiZDllYzhhOTMtYTE2Mi00MjE5LTg3MjMtZjU2MGY3YjAwMzcwIiwidCI6IjY2NGQxODg4LWU4MzAtNDBmMi1iMWIwLWViMWE3ZTRhYTNhYSIsImMiOjN9)** This is one of the first dashboards I developed within Power BI. This fictional dataset of patients provides information on their waiting times at a healthcare facility, speciality center they were visiting, etc.
 
 
 ## Skills
