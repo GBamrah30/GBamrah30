@@ -1,5 +1,5 @@
-Hi, my name is Gagan Bamrah
-==============================
+Gagan Bamrah
+============
 
 Data Analyst | Project Management Consultant
 --------------------------------------------
