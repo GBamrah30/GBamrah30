@@ -30,4 +30,7 @@ Below, you will find links to Power BI Sample Dashboards I have developed:
 <p align="left">
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="36" height="36" alt="Power BI" /></a>
+<a href="https://apmg-international.com/product/change-management" target="_blank" rel="noreferrer">
+    <img src="https://example.com/path-to-your-custom-icon.svg" width="36" height="36" alt="Change Management Foundations" />
+</a>
 </p>
