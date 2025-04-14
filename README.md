@@ -20,7 +20,7 @@ Below, you will find links to Power BI Sample Dashboards I have developed:
 
 **[Chocolate Sales Analysis:](https://app.powerbi.com/view?r=eyJrIjoiMjEwYTU2NTQtZTk1Ny00YzFiLTk1N2MtYTUwYzNhMmFmOWViIiwidCI6IjY2NGQxODg4LWU4MzAtNDBmMi1iMWIwLWViMWE3ZTRhYTNhYSIsImMiOjN9)** Fictional dataset used to show financial reporting and KPI's of a fictional chocolate company.
 
-**[Car Sales Analysis:](https://app.powerbi.com/view?r=eyJrIjoiY2E4ZjczOGYtNDBhZS00MjQ2LTg0YTItZWVjNDFmNWJlNTE4IiwidCI6IjY2NGQxODg4LWU4MzAtNDBmMi1iMWIwLWViMWE3ZTRhYTNhYSIsImMiOjN9)** Fictional dataset of a fictional car dealershipl. The dashboard shows information related to financials, cars sold, and consumers.
+**[Car Sales Analysis:](https://app.powerbi.com/view?r=eyJrIjoiY2E4ZjczOGYtNDBhZS00MjQ2LTg0YTItZWVjNDFmNWJlNTE4IiwidCI6IjY2NGQxODg4LWU4MzAtNDBmMi1iMWIwLWViMWE3ZTRhYTNhYSIsImMiOjN9)** Fictional dataset of a fictional car dealership. The dashboard shows information related to financials, cars sold, and consumers.
 
 **[Patient Healthcare Analysis:](https://app.powerbi.com/view?r=eyJrIjoiZDllYzhhOTMtYTE2Mi00MjE5LTg3MjMtZjU2MGY3YjAwMzcwIiwidCI6IjY2NGQxODg4LWU4MzAtNDBmMi1iMWIwLWViMWE3ZTRhYTNhYSIsImMiOjN9)** This is one of the first dashboards I developed within Power BI. This fictional dataset of patients provides information on their waiting times at a healthcare facility, speciality center they were visiting, etc.
 
