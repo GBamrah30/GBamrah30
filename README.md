@@ -87,10 +87,4 @@ Here are some of the Power BI dashboards I’ve developed using both real and fi
 
 ---
 
-## 📊 GitHub Stats
-
-![Gagan's GitHub stats](https://github-readme-stats.vercel.app/api?username=GBamrah30&show_icons=true&theme=react)
-
----
-
 > 💡 *“I turn raw data into business insights through dashboards, automation, and strategy.”*
