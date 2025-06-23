@@ -4,12 +4,16 @@ Gagan Bamrah
 Data Analyst | Project Management Consultant
 --------------------------------------------
 
-I began my journey as a Data Analyst, analyzing data in excel, observing trends, and presenting facts, tables and providing actionable plans to clients and stakeholders. Over the past three years, I transitioned into Project Management Consulting, where I have smerged my passion for data with my expertise in project management. Today, I focus on developing detailed Power BI dashboards that provide clients with KPI reporting, financial tracking, and various other business applications. My work combines analytical precision with strategic thinking to deliver solutions that meet my clients' unique needs. Below, you will find sample Power BI dashboards I have created and analyzed diverse datasets and provide comprehensive insights.
+I began my journey as a Data Analyst, analyzing data in excel, observing trends, and presenting facts, tables and providing actionable plans to clients and stakeholders. Over the past three years, I transitioned into Project Management Consulting, where I have smerged my passion for data with my expertise in project management. Today, I focus on developing detailed Power BI dashboards that provide clients with KPI reporting, financial tracking, and various other business applications. My work combines analytical precision with strategic thinking to deliver solutions that meet my clients' unique needs. 
+
+I continue to expand my knowledge and skillsets by independently learning new tools such as Python and SQL to enhance my data analytics skill. 
+
+Below, you will find not only sample Power BI dashboards I have created and use to analyze diverse datasets and provide comprehensive insights, but you will also find Python programs I have created for data analytics purposes.
 
 *   🌍  I'm based in New York
 *   🖥️  See my  [LinkedIn Profile](http://www.linkedin.com/in/gagan-bamrah-a2a9aa163)
 *   ✉️  You can contact me at [gagan.bamrah30@gmail.com](mailto:gagan.bamrah30@gmail.com)
-*   🧠  I'm learning SQL and Python
+*   🧠  Continuing my learning in Python to understand and apply Machine Learning
 
 ## Power BI Sample Dashboards
 -----------------------------
@@ -24,6 +28,18 @@ Below, you will find links to Power BI Sample Dashboards I have developed:
 
 **[Patient Healthcare Analysis:](https://app.powerbi.com/view?r=eyJrIjoiZDllYzhhOTMtYTE2Mi00MjE5LTg3MjMtZjU2MGY3YjAwMzcwIiwidCI6IjY2NGQxODg4LWU4MzAtNDBmMi1iMWIwLWViMWE3ZTRhYTNhYSIsImMiOjN9)** This is one of the first dashboards I developed within Power BI. This fictional dataset of patients provides information on their waiting times at a healthcare facility, speciality center they were visiting, etc.
 
+## Python Projects
+---------
+
+Below are Python programs and pages I have created to display my data analytics and newfound coding skills.
+
+**[Flashcard Program:](https://github.com/GBamrah30/PandasProjects/tree/main/Flashcard)** This is one of the first independent programs I have created. They intent of this project is to replicate a very basic version of Quizlet where users can create flashcards and run functions that will help test their knowledge by showing them terms and asking for definitions as answers in the terminal.
+
+**[Budget Tracker:](https://github.com/GBamrah30/PandasProjects/tree/main/BudgetTracker)** This program runs a provided csv file taht can be editted in terminal that tracks users budget spending. There are Pandas functions that allows users to add/delete enteries, add/delete columns, and view sections of the dataset in the terminal. Additionally, the program takes advance of the power Matplotlib's and Seaborn library to create graphs using information in the dataset.
+
+**[Ai Job Market:](https://gbamrah30-pandasprojects-aijobmarketapp-lzhnnz.streamlit.app/)** My first webpage I created using the power library Streamlit and Seaborn, to analyze a kaggle dataset that provided information on the current Ai Job Market, and provide users with useful graphs and visualizations of the dataset.
+
+**[Heart Attack Analysis:](https://gbamrah30-pandasprojects-heartattackdatasetstreamlit-app-pfwape.streamlit.app/)** This is another webpage I created using Streamlit and Plotly (in placement of Seaborn for more interactive graphs). The heart attack datasets were collected at Zheen hospital in Erbil, Iraq, from January 2019 to May 2019, and you will find useful graphs and tables to display key aspects of the dataset.
 
 ## Skills
 ---------
