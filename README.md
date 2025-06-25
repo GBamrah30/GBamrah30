@@ -72,12 +72,6 @@ Here are some of the Power BI dashboards I’ve developed using both real and fi
   <a href="https://streamlit.io/" target="_blank">
     <img src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.svg" height="40" alt="Streamlit" />
   </a>&nbsp;
-  <a href="https://scaledagile.com/certification/certified-safe-scrum-master/" target="_blank">
-    <img src="https://i.imgur.com/srbo17k.png" width="40" height="40" alt="SAFe Scrum Master 6.0" />
-  </a>&nbsp;
-  <a href="https://apmg-international.com/product/change-management" target="_blank">
-    <img src="https://i.imgur.com/U2ZkTgl.png" width="40" height="40" alt="APMG Change Management" />
-  </a>
 </p>
 
 ---
