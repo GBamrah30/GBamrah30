@@ -58,6 +58,7 @@ Here are some of the Power BI dashboards I’ve developed using both real and fi
 
 ---
 
+
 <p align="left">
   <a href="https://www.python.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="40" height="40" alt="Python" />
@@ -72,10 +73,10 @@ Here are some of the Power BI dashboards I’ve developed using both real and fi
     <img src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.svg" height="40" alt="Streamlit" />
   </a>&nbsp;
   <a href="https://scaledagile.com/certification/certified-safe-scrum-master/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/SAFe_logo.png" width="40" height="40" alt="SAFe Scrum Master 6.0" />
+    <img src="https://i.imgur.com/srbo17k.png" width="40" height="40" alt="SAFe Scrum Master 6.0" />
   </a>&nbsp;
   <a href="https://apmg-international.com/product/change-management" target="_blank">
-    <img src="https://seeklogo.com/images/A/apmg-international-logo-3D3439DFA8-seeklogo.com.png" width="40" height="40" alt="APMG Change Management" />
+    <img src="https://i.imgur.com/U2ZkTgl.png" width="40" height="40" alt="APMG Change Management" />
   </a>
 </p>
 
